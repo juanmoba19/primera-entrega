@@ -1,0 +1,5 @@
+El estudiante juan
+con Cedula 1029
+Se ha matriculado en el curso Cocina
+Con duracion de 60
+Y un valor de 550000

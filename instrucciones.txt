@@ -1,0 +1,6 @@
+Informacion de los cursos:
+- node main
+
+Generar archivo:
+node main inscribir --i=2 --n=juan --cc=1029
+
